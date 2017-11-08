@@ -1,0 +1,22 @@
+<map id="projects/ad9081/src/app_iio.c" name="projects/ad9081/src/app_iio.c">
+<area shape="rect" id="node1" title="Application IIO setup." alt="" coords="541,5,689,47"/>
+<area shape="rect" id="node2" href="$error_8h.html" title="Error codes definition." alt="" coords="153,95,217,121"/>
+<area shape="rect" id="node4" href="$uart_8h.html" title="Header file of UART interface." alt="" coords="538,319,598,345"/>
+<area shape="rect" id="node6" title=" " alt="" coords="609,95,709,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="733,95,781,121"/>
+<area shape="rect" id="node8" href="$app__parameters_8h.html" title="Application parameters." alt="" coords="806,95,946,121"/>
+<area shape="rect" id="node10" href="$ad9081_2src_2app__iio_8h.html" title="Application IIO setup." alt="" coords="355,95,434,121"/>
+<area shape="rect" id="node19" href="$irq_8h.html" title="Header file of IRQ interface." alt="" coords="483,244,533,271"/>
+<area shape="rect" id="node20" title=" " alt="" coords="971,95,1061,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="86,169,154,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="314,393,385,420"/>
+<area shape="rect" id="node9" title=" " alt="" coords="818,169,934,196"/>
+<area shape="rect" id="node11" href="$iio__axi__adc_8h.html" title="Header file of iio_axi_adc." alt="" coords="178,169,281,196"/>
+<area shape="rect" id="node17" href="$iio__axi__dac_8h.html" title="Header file of iio_axi_dac." alt="" coords="305,169,407,196"/>
+<area shape="rect" id="node12" title=" " alt="" coords="267,244,357,271"/>
+<area shape="rect" id="node13" href="$axi__adc__core_8h.html" title="Driver for the Analog Devices AXI&#45;ADC&#45;CORE module." alt="" coords="5,244,123,271"/>
+<area shape="rect" id="node16" href="$axi__dmac_8h.html" title="Driver for the Analog Devices AXI&#45;DMAC core." alt="" coords="147,244,242,271"/>
+<area shape="rect" id="node14" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="163,319,216,345"/>
+<area shape="rect" id="node15" title=" " alt="" coords="149,393,230,420"/>
+<area shape="rect" id="node18" href="$axi__dac__core_8h.html" title="Driver for the Analog Devices AXI&#45;DAC&#45;CORE module." alt="" coords="291,319,408,345"/>
+</map>

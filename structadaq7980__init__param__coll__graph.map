@@ -1,0 +1,9 @@
+<map id="adaq7980_init_param" name="adaq7980_init_param">
+<area shape="rect" id="node1" title="Structure containing the init parameters needed by the adaq7980 device." alt="" coords="225,199,387,225"/>
+<area shape="rect" id="node2" href="$structpwm__init__param.html" title="Structure containing the init parameters needed by the PWM generator." alt="" coords="5,102,132,129"/>
+<area shape="rect" id="node3" href="$structgpio__init__param.html" title="Structure holding the parameters for GPIO initialization." alt="" coords="156,102,280,129"/>
+<area shape="rect" id="node4" href="$structgpio__platform__ops.html" title="Structure holding gpio function pointers that point to the platform specific function." alt="" coords="148,5,288,32"/>
+<area shape="rect" id="node5" href="$structspi__engine__offload__init__param.html" title="Structure containing the init parameters needed by the offload module." alt="" coords="304,95,444,136"/>
+<area shape="rect" id="node6" href="$structspi__init__param.html" title="Structure holding the parameters for SPI initialization." alt="" coords="469,102,583,129"/>
+<area shape="rect" id="node7" href="$structspi__platform__ops.html" title="Structure holding SPI function pointers that point to the platform specific function." alt="" coords="461,5,591,32"/>
+</map>

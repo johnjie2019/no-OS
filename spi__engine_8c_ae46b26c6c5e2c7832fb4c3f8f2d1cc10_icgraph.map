@@ -1,0 +1,10 @@
+<map id="spi_engine_offload_transfer" name="spi_engine_offload_transfer">
+<area shape="rect" id="node1" title="Initiate a SPI transfer in offload mode." alt="" coords="491,99,631,141"/>
+<area shape="rect" id="node2" href="$ad469x_8h.html#abda6b9d65e0b6e2a82390a09a8f08eb8" title="Exit conversion mode. Enter register mode to read/write registers." alt="" coords="224,5,443,32"/>
+<area shape="rect" id="node3" href="$ad469x_8h.html#a92cd606b28fd68b3a2c52717552818df" title="Read from device. Enter register mode to read/write registers." alt="" coords="263,56,404,83"/>
+<area shape="rect" id="node5" href="$adaq7980_8h.html#a1d04d6c8c5b30c8f739bb4ed0f7deecd" title="Read from device. Enter register mode to read/write registers." alt="" coords="262,107,405,133"/>
+<area shape="rect" id="node6" href="$iio__ad713x_8c.html#ad4cff533f1b6bfdfe456a574ed302e23" title="Transfer data from device into RAM." alt="" coords="260,158,407,199"/>
+<area shape="rect" id="node8" href="$ad400x__fmcz_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="306,224,361,251"/>
+<area shape="rect" id="node4" href="$ad469x_8h.html#ad920a4e940cf6f64bfa4613e02a598fe" title="Read from device when converter has the channel sequencer activated. Enter register mode to read/writ..." alt="" coords="5,56,176,83"/>
+<area shape="rect" id="node7" href="$iio__ad713x_8h.html#a259a55182ae9a8bbf607f56a79f97f45" title="Init for reading/writing and parameterization of a ad9361 device." alt="" coords="33,165,149,192"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="gpio_get_optional" name="gpio_get_optional">
+<area shape="rect" id="node1" title="Get the value of an optional GPIO." alt="" coords="432,56,567,83"/>
+<area shape="rect" id="node2" href="$ad5770r_8h.html#a91549ef06cfe7ec6c7119ed89a44927d" title=" " alt="" coords="269,5,370,32"/>
+<area shape="rect" id="node3" href="$drivers_2frequency_2ad9528_2ad9528_8h.html#a300fee1e9b4ba514e195d5312b11eea3" title="Initializes the AD9528." alt="" coords="263,56,376,83"/>
+<area shape="rect" id="node7" href="$adaq7980_8h.html#a0db55892937414f2d5dc84a14fd89677" title=" " alt="" coords="255,107,384,133"/>
+<area shape="rect" id="node4" href="$app__clocking_8h.html#adab63a630c95f109e3b4330b5b0253b6" title=" " alt="" coords="108,31,207,57"/>
+<area shape="rect" id="node6" href="$fmcdaq3_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="130,81,185,108"/>
+<area shape="rect" id="node5" href="$adrv9009_2src_2app_2headless_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,31,60,57"/>
+</map>
